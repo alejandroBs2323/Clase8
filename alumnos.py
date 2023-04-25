@@ -35,3 +35,6 @@ def alumnos():
             promedio = (alumno[1]+alumno[2]+alumno[3])/3
             print(alumno[0]+"\t"+str(round(promedio,1)))
 
+
+    print("Hola mundo")
+
