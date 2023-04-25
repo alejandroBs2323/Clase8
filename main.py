@@ -1,4 +1,5 @@
 import problema1
+from alumnos import alumnos
 
 
 '''
@@ -63,6 +64,11 @@ if __name__ == '__main__':
     print()
 
     problema1.sumar_5_enteros()
+
+    print()
+
+    alumnos()
+    
 
 
 
